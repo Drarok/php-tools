@@ -1,0 +1,17 @@
+{
+  "versions": [
+    "php53",
+    "php54",
+    "php55",
+    "php56",
+    "php70",
+    "php71",
+    "php72"
+  ],
+  "packages": [
+    "mcrypt",
+    "phalcon",
+    "timezonedb",
+    "xdebug"
+  ]
+}
